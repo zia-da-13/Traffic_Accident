@@ -11,7 +11,7 @@ Dataset Overview
 
 
 
-Motivation:
+# Motivation 
 I chose this Project because of the increasing relevance of traffic safety in rapidly growing urban areas like Nashville and around the city. The city has experienced significant population growth and economic development, leading to more vehicles on the road and a corresponding rise in traffic-related incidents. Personally, as an Uber driver, I have firsthand experience with the challenges of navigating traffic in busy city areas and vital number of accidents while on the job has given me a unique perspective on the importance of road safety and the factors that contribute to unsafe conditions.
 Another driving factor for selecting this project is the opportunity to apply analytical techniques to a dataset that combines environmental, temporal, and human factors. With so many variables to consider—such as weather conditions, time of day, and collision types—this analysis provides a comprehensive way to highlight my skills in data cleaning, visualization, and interpretation. Additionally, traffic accidents impact not only individuals but also communities, making this analysis valuable for policy recommendations and urban planning efforts.
 Lastly, the dataset’s richness and complexity offer a unique challenge. It allows me to practice integrating multiple fields of knowledge, from geographic analysis to statistical modeling, and to produce meaningful insights that could inform decision-making processes. Addressing such a multifaceted issue aligns well with my academic and professional goals.
