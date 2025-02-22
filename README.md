@@ -15,10 +15,10 @@ This dataset contains detailed records of traffic accidents reported by the <ins
 Data Source
 The dataset was obtained from traffic accident reports compiled by the _Metro Police Department of Nashville_.
  
-  Dataset Overview
-• Total Records: 245,286.
-• Total Columns: 27.
-• File Format: CSV.
+ <h2> Dataset Overview</h2>
+• Total Records: 245,286
+• Total Columns: 27
+• File Format: CSV
 
 
 
