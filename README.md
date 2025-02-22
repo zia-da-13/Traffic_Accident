@@ -4,6 +4,10 @@
 * [Technologies Used](#Technologies)
 * [Problems/Hurdles](#Problems/Hurdles)
 
+- [Motivation](#Motivation)
+- [Technologies-Used](#Technologies-Used)
+- [Usage](#usage)
+
 
 
 
