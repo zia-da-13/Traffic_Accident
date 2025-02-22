@@ -20,7 +20,6 @@ The dataset was obtained from traffic accident reports compiled by the **_Metro 
 • _**Total Columns**: 27_
 • _**File Format**: CSV_
 
-https://experience.arcgis.com/experience/3856353b42894bc89e8cb087d66323d9/
 
 
 # Motivation 
@@ -32,7 +31,7 @@ Lastly, the dataset’s richness and complexity offer a unique challenge. It all
 To analyze Traffic_Accident dataset, I utilized a combination of powerful technologies and tools to offer extensive exploration and meaningful insights. I began with Jupyter Notebook 7.2, where I utilized Python for extensive data exploration and analysis through its powerful libraries to clean, transform, and analyze the dataset effectively. In order to gain a better understanding of the data, I used Microsoft Excel for initial data visualization and further analysis, creating charts and tables that highlighted significant trends and patterns. Finally, I used Power BI to create an interactive presentation that provided more meaningful explanations of the data. This dynamic dashboard not only showed the findings in graphical terms but also supported dynamic interaction with the data so that it is easier to deduce actionable insight and present the same in a compelling manner.
 
 
-# Problems/Hurdles Encountered
+# Problems/Hurdles
 
 During the work on the Traffic_Accident dataset, I encountered difficulties in data preprocessing and cleaning because of missing values, inconsistent formats, and outliers. Comprehending intricate data relationships with limited experience in data analysis also meant learning sophisticated Python methods. Moreover, combining data from Jupyter Notebook, Excel, and Power BI required meticulous handling to ensure consistency. Interactive Power BI dashboard design was tricky from the standpoint of optimizing performance as well as determining appropriate visual objects for effective storytelling. Getting past these obstacles required intense research, experimentation, and continuous improvement.
 
