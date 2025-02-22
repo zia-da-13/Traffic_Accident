@@ -1,10 +1,10 @@
-## Table of contents
+## Table of Contents
+
+- [About](#about)
 - [Motivation](#Motivation)
 - [Technologies-Used](#Technologies-Used)
-- [Problems/Hurdles](#Problems/Hurdles)
-- [Usage](#usage)
-
-
+- [Problems/Hudles](#Problems/Hudles)
+- [Usage](#Usage)
 
 
 
