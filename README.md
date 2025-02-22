@@ -1,6 +1,6 @@
 <h1>Traffic Accident Dataset</h1>
 Description
-This dataset contains detailed records of traffic accidents reported by the **Metro Police Department of Nashville**, including vehicle counts, injuries, fatalities, and contributing factors. The data focuses on accidents within the Nashville metropolitan area and provides insights into accident trends, including weather conditions, hit-and-run cases, and illumination conditions.
+This dataset contains detailed records of traffic accidents reported by the ** Metro Police Department of Nashville **, including vehicle counts, injuries, fatalities, and contributing factors. The data focuses on accidents within the Nashville metropolitan area and provides insights into accident trends, including weather conditions, hit-and-run cases, and illumination conditions.
 Data Source
 The dataset was obtained from traffic accident reports compiled by the **Metro Police Department of Nashville**.
 Dataset Overview
