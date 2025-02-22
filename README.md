@@ -3,7 +3,7 @@
 - [Traffic-Accident](#Traffic-Accident)
 - [Motivation](#Motivation)
 - [Technologies-Used](#Technologies-Used)
-- [Problems/Hudles](#Problems/Hudles)
+- [Problems/Hudles](#Problems/Hurdles)
 - [Usage](#Usage)
 
 
