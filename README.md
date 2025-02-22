@@ -1,11 +1,7 @@
 ## Table of contents
-* [General info](#general-info)
-* [Motivation](#Motivation)
-* [Technologies Used](#Technologies)
-* [Problems/Hurdles](#Problems/Hurdles)
-
 - [Motivation](#Motivation)
 - [Technologies-Used](#Technologies-Used)
+- [Problems/Hurdles](#Problems/Hurdles)
 - [Usage](#usage)
 
 
