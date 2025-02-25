@@ -3,8 +3,12 @@
 - [Traffic-Accident](#Traffic-Accident)
 - [Motivation](#Motivation)
 - [Technologies-Used](#Technologies-Used)
+<<<<<<< HEAD
 - [Problems/Hurdles](#Problems/Hurdles)
 - [Sources](#Sources)
+=======
+- [Challenges](#Challenges)
+>>>>>>> c29fee909ffd8877f47e8e655e7aa85a0a705086
 - [Usage](#Usage)
 
 
@@ -34,6 +38,7 @@ To analyze Traffic_Accident dataset, I utilized a combination of powerful techno
 <h2>📊 Live Power BI Report</h2>
 <iframe width="800" height="600" src="https://app.powerbi.com/groups/me/reports/18bd725b-fa07-4a3b-8dfd-c8b132fd1605/e3e4a1059c0127bd2267?experience=power-bi" frameborder="0" allowFullScreen="true"></iframe>
 
+<<<<<<< HEAD
 # Problems/Hurdles
 
 During the work on the Traffic_Accident dataset, I encountered difficulties in data preprocessing and cleaning because of missing values, inconsistent formats, and outliers. Comprehending intricate data relationships with limited experience in data analysis also meant learning sophisticated Python methods. Moreover, combining data from Jupyter Notebook, Excel, and Power BI required meticulous handling to ensure consistency. Interactive Power BI dashboard design was tricky from the standpoint of optimizing performance as well as determining appropriate visual objects for effective storytelling. Getting past these obstacles required intense research, experimentation, and continuous improvement.
@@ -46,6 +51,12 @@ https://www.tn.gov/governor/covid-19/covid19timeline.html
 
 
 
+=======
+# Challenges
+
+During the work on the Traffic_Accident dataset, I encountered difficulties in data preprocessing and cleaning because of missing values, inconsistent formats, and outliers. Comprehending intricate data relationships with limited experience in data analysis also meant learning sophisticated Python methods. Moreover, combining data from Jupyter Notebook, Excel, and Power BI required meticulous handling to ensure consistency. Interactive Power BI dashboard design was tricky from the standpoint of optimizing performance as well as determining appropriate visual objects for effective storytelling. Getting past these obstacles required intense research, experimentation, and continuous improvement.
+
+>>>>>>> c29fee909ffd8877f47e8e655e7aa85a0a705086
 # Usage
 
 This dataset can be used for:
