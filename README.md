@@ -4,8 +4,8 @@
 - [Motivation](#Motivation)
 - [Technologies-Used](#Technologies-Used)
 - [Problems/Hurdles](#Problems/Hurdles)
-- [Sources](#Sources)
 - [Challenges](#Challenges)
+- [Sources](#Sources)
 - [Usage](#Usage)
 
 
@@ -32,11 +32,15 @@ Lastly, the dataset’s richness and complexity offer a unique challenge. It all
 # Technologies Used
 To analyze Traffic_Accident dataset, I utilized a combination of powerful technologies and tools to offer extensive exploration and meaningful insights. I began with Jupyter Notebook 7.2, where I utilized Python for extensive data exploration and analysis through its powerful libraries to clean, transform, and analyze the dataset effectively. In order to gain a better understanding of the data, I used Microsoft Excel for initial data visualization and further analysis, creating charts and tables that highlighted significant trends and patterns. Finally, I used Power BI to create an interactive presentation that provided more meaningful explanations of the data. This dynamic dashboard not only showed the findings in graphical terms but also supported dynamic interaction with the data so that it is easier to deduce actionable insight and present the same in a compelling manner.
 
-<h2>📊 Live Power BI Report</h2>
-<iframe width="800" height="600" src="https://app.powerbi.com/groups/me/reports/18bd725b-fa07-4a3b-8dfd-c8b132fd1605/e3e4a1059c0127bd2267?experience=power-bi" frameborder="0" allowFullScreen="true"></iframe>
-
 
 # Problems/Hurdles
+
+During the work on the Traffic_Accident dataset, I encountered difficulties in data preprocessing and cleaning because of missing values, inconsistent formats, and outliers. Comprehending intricate data relationships with limited experience in data analysis also meant learning sophisticated Python methods. Moreover, combining data from Jupyter Notebook, Excel, and Power BI required meticulous handling to ensure consistency. Interactive Power BI dashboard design was tricky from the standpoint of optimizing performance as well as determining appropriate visual objects for effective storytelling. Getting past these obstacles required intense research, experimentation, and continuous improvement.
+
+
+
+
+# Challenges
 
 During the work on the Traffic_Accident dataset, I encountered difficulties in data preprocessing and cleaning because of missing values, inconsistent formats, and outliers. Comprehending intricate data relationships with limited experience in data analysis also meant learning sophisticated Python methods. Moreover, combining data from Jupyter Notebook, Excel, and Power BI required meticulous handling to ensure consistency. Interactive Power BI dashboard design was tricky from the standpoint of optimizing performance as well as determining appropriate visual objects for effective storytelling. Getting past these obstacles required intense research, experimentation, and continuous improvement.
 
@@ -44,12 +48,6 @@ During the work on the Traffic_Accident dataset, I encountered difficulties in d
 https://newschannel9.com/news/local/tennessee-traffic-deaths-reach-six-year-high-despite-covid-19-pandemic-crash-homeland-security-safety-drivers-automobiles-pedestrians-trucks.
 
 https://www.tn.gov/governor/covid-19/covid19timeline.html
-
-
-# Challenges
-
-During the work on the Traffic_Accident dataset, I encountered difficulties in data preprocessing and cleaning because of missing values, inconsistent formats, and outliers. Comprehending intricate data relationships with limited experience in data analysis also meant learning sophisticated Python methods. Moreover, combining data from Jupyter Notebook, Excel, and Power BI required meticulous handling to ensure consistency. Interactive Power BI dashboard design was tricky from the standpoint of optimizing performance as well as determining appropriate visual objects for effective storytelling. Getting past these obstacles required intense research, experimentation, and continuous improvement.
-
 
 # Usage
 
