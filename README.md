@@ -5,9 +5,9 @@
 - [Technologies-Used](#Technologies-Used)
 - [Problems/Hurdles](#Problems/Hurdles)
 - [Challenges](#Challenges)
-- [Sources](#Sources)
+- [Sources](#Source)
 - [Usage](#Usage)
-
+- [Power BI Report](#Power-Bi-Report)
 
 
 
@@ -46,7 +46,6 @@ During the work on the Traffic_Accident dataset, I encountered difficulties in d
 
 # Source
 https://newschannel9.com/news/local/tennessee-traffic-deaths-reach-six-year-high-despite-covid-19-pandemic-crash-homeland-security-safety-drivers-automobiles-pedestrians-trucks.
-
 https://www.tn.gov/governor/covid-19/covid19timeline.html
 
 # Usage
@@ -60,3 +59,10 @@ License
 This dataset is provided for research and analysis purposes. Please check local regulations if using for commercial purposes.
 Contact
 For any questions regarding this dataset, please contact [your email or organization name].
+
+
+# Power BI Report
+
+You can access the interactive Power BI report by clicking on the link below:
+
+[Power BI Report on Public School Characteristics](https://app.powerbi.com/groups/me/reports/18bd725b-fa07-4a3b-8dfd-c8b132fd1605/4fa3c8bdee91e91541c7?experience=power-bi)
