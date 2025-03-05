@@ -65,4 +65,4 @@ For any questions regarding this dataset, please contact [your email or organiza
 
 You can access the interactive Power BI report by clicking on the link below:
 
-[Power BI Report on Public School Characteristics](https://app.powerbi.com/groups/me/reports/18bd725b-fa07-4a3b-8dfd-c8b132fd1605/4fa3c8bdee91e91541c7?experience=power-bi)
+[Power BI Report on Public School Characteristics](<iframe title="Nashville_Traffic_Accidents" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjBmNDU4OTQtMDAxZi00YzEwLWE1MTAtZDQ2ZGRlZDAwZjZkIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9" frameborder="0" allowFullScreen="true"></iframe>)
